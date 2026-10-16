@@ -1,0 +1,12 @@
+{
+ "id":"/",
+ "name":"THEORY ATLAS — The Everything Lab",
+ "short_name":"THEORY ATLAS",
+ "description":"Interactive theory of everything and quantum gravity laboratories",
+ "start_url":"/",
+ "display":"standalone",
+ "background_color":"#f7f8f5",
+ "theme_color":"#171923",
+ "lang":"el",
+ "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
